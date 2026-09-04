@@ -1,0 +1,29 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 数据文件（本地缓存、持仓、日志等）
+data/raw/
+data/realtime_estimates.json
+data/trade_log.json
+config/profiles/
+config/global_fund_sector_mapping.json
+config/global_sector_limits.json
+
+# Streamlit 缓存
+.streamlit/
+.cache/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 环境变量
+.env
+secrets.toml
+
+# 临时文件
+*.tmp
+*.log
