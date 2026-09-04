@@ -1,0 +1,16 @@
+[server]
+# 运行时会写入这些目录/文件；监视它们会导致服务反复重启，
+# 浏览器出现 Failed to fetch dynamically imported module。
+folderWatchBlacklist = [
+    "**/data",
+    "**/config/profiles",
+    "**/config/*.json",
+    "**/.venv",
+    "**/__pycache__",
+]
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"

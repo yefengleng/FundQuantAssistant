@@ -1,0 +1,13 @@
+akshare
+pandas
+numpy
+pyarrow
+requests
+streamlit
+plotly
+schedule
+backtrader
+paddlepaddle
+paddleocr
+opencv-python
+streamlit-autorefresh

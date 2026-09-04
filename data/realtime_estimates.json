@@ -1,0 +1,93 @@
+{
+  "updated_at": "2026-09-04 16:33:59",
+  "items": {
+    "000218": {
+      "nav_estimate": 3.4842,
+      "change_pct": 0.88
+    },
+    "026155": {
+      "nav_estimate": 8.2018,
+      "change_pct": 0.0
+    },
+    "008987": {
+      "nav_estimate": 2.0077,
+      "change_pct": 0.0
+    },
+    "018816": {
+      "nav_estimate": 1.9496,
+      "change_pct": 0.0
+    },
+    "021528": {
+      "nav_estimate": 4.041,
+      "change_pct": 0.0
+    },
+    "022807": {
+      "nav_estimate": 1.0499,
+      "change_pct": 0.0
+    },
+    "014978": {
+      "nav_estimate": 7.934,
+      "change_pct": 0.0
+    },
+    "009995": {
+      "nav_estimate": 2.161,
+      "change_pct": 0.0
+    },
+    "020357": {
+      "nav_estimate": 3.1301,
+      "change_pct": -3.44
+    },
+    "017811": {
+      "nav_estimate": 3.1883,
+      "change_pct": 0.0
+    },
+    "024535": {
+      "nav_estimate": 1.1246,
+      "change_pct": 0.0
+    },
+    "011452": {
+      "nav_estimate": 2.8313,
+      "change_pct": 0.0
+    },
+    "017641": {
+      "nav_estimate": 1.7044,
+      "change_pct": 0.0
+    },
+    "002839": {
+      "nav_estimate": 1.0945,
+      "change_pct": 0.0
+    },
+    "025500": {
+      "nav_estimate": 1.5871,
+      "change_pct": 0.0
+    },
+    "019172": {
+      "nav_estimate": 1.7336,
+      "change_pct": 0.0
+    },
+    "018043": {
+      "nav_estimate": 2.0128,
+      "change_pct": 0.0
+    },
+    "007721": {
+      "nav_estimate": 2.2558,
+      "change_pct": 0.0
+    },
+    "016452": {
+      "nav_estimate": 2.2648,
+      "change_pct": 0.0
+    },
+    "012922": {
+      "nav_estimate": 3.5572,
+      "change_pct": 0.0
+    },
+    "026633": {
+      "nav_estimate": 1.4977,
+      "change_pct": 0.0
+    },
+    "024418": {
+      "nav_estimate": 2.1633,
+      "change_pct": -3.56
+    }
+  }
+}
