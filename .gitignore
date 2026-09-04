@@ -3,16 +3,15 @@
 venv/
 env/
 
-# 数据文件（本地缓存、持仓、日志等）
-# 忽略所有本地数据文件
+# 本地数据文件（所有数据目录、缓存、日志等）
 data/
-!data/.gitkeep
-data/raw/
-data/realtime_estimates.json
-data/trade_log.json
 config/profiles/
 config/global_fund_sector_mapping.json
 config/global_sector_limits.json
+
+# 但保留以下代码文件（如果有需要保留的文件）
+# 注意：data/.gitkeep 如果存在，需要单独保留，可以用 ! 规则
+!data/.gitkeep
 
 # Streamlit 缓存
 .streamlit/
@@ -27,6 +26,6 @@ __pycache__/
 .env
 secrets.toml
 
-# 临时文件
+# 日志及临时文件
 *.tmp
 *.log
