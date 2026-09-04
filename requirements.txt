@@ -7,7 +7,7 @@ streamlit
 plotly
 schedule
 backtrader
-paddlepaddle
-paddleocr
-opencv-python
+# paddlepaddle
+# paddleocr
+# opencv-python
 streamlit-autorefresh
