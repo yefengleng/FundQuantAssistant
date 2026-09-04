@@ -4,6 +4,9 @@ venv/
 env/
 
 # 数据文件（本地缓存、持仓、日志等）
+# 忽略所有本地数据文件
+data/
+!data/.gitkeep
 data/raw/
 data/realtime_estimates.json
 data/trade_log.json
